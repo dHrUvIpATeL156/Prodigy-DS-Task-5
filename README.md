@@ -1,9 +1,9 @@
 # Prodigy InfoTech Internship: Data Analysis Insights
 
 Welcome to the repository for my traffic accident data analysis project, completed during my data science internship at Prodigy Infotech. This project involves data cleaning, exploratory data analysis (EDA), visualization, and deriving insights from a dataset containing traffic accident records.
-# Project Overview
+# Task 5
 
-The goal of this project is to analyze traffic accident data to understand patterns and trends, identify accident hotspots, and provide actionable insights that can help in enhancing road safety measures.
+Analyze traffic accident data to identify patterns related to road conditions,weather and time of day. Visualize accident hotspots and contribution factors.
 # Methodology
 
 Data Cleaning: Handled missing values, converted data types, and ensured consistency across the dataset.
